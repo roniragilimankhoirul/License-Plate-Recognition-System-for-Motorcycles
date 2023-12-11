@@ -1,14 +1,14 @@
-# License Plate Recognition System for Motorcycles
+# Motorcycle-License-Plate-Recognition-with-TensorFlow-Keras
 
-This project is a specialized License Plate Recognition (LPR) system tailored for detecting license plates on motorcycles using computer vision and deep learning techniques. The system is capable of recognizing characters on license plates in motorcycle images, extracting the plate number, and saving the results to a database.
+This specialized License Plate Recognition (LPR) system is designed for detecting license plates on motorcycles using TensorFlow and Keras for deep learning techniques. The system recognizes characters on motorcycle license plates, extracts the plate number, and saves the results to a database.
 
 ## How to Use
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/roniragilimankhoirul/License-Plate-Recognition-System-for-Motorcycles.git
- && cd License-Plate-Recognition-System-for-Motorcycles
+git clone https://github.com/roniragilimankhoirul/Motorcycle-License-Plate-Recognition-with-TensorFlow-Keras.git
+ && cd Motorcycle-License-Plate-Recognition-with-TensorFlow-Keras
 ```
 
 2. Create a virtual environment:
